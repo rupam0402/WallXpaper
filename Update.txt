@@ -1,0 +1,54 @@
+desk.html
+
+<div class="image-container">
+                <div class="grid">
+                    <div class="grid-img">
+                        <a href="paper1.html">                        
+                            <img src="files/Charlie LAND.jpg">
+                        </a>
+
+paper1.html and paper1.css
+
+
+ <section class="section4">
+
+        <div class="main">
+            <div class="main-img">
+                <h1>Download this WallXpaper</h1>
+                
+                <a href="files/Charlie LAND.jpg" download="Rupam's paper">
+                    <img src="files/Charlie LAND.jpg" alt="">
+                </a>
+            
+            </div>
+        </div>
+    </section>
+
+mob.html
+
+            <div class="image-container">
+                <div class="grid">
+                    <div class="grid-img">
+                        <a href="wall1.html">                        
+                            <img src="files/Charile port.jpg" alt="">
+                        </a>
+                        
+
+                    </div>
+
+
+wall1.html and wall1.css
+
+    <section class="section2">
+
+        <div class="main">
+            <div class="main-img">
+                <h1>Download this WallXpaper</h1>
+                
+                <a href="files/Charile port.jpg" download="Rupam's wall">
+                    <img src="files/Charile port.jpg" alt="">
+                </a>
+            
+            </div>
+        </div>
+    </section>
